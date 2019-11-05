@@ -11,7 +11,7 @@
     "ProductId": "HT-1001",
     "WeightMeasure": 4.5,
     "Description": "Notebook Basic 17 with 2,80 GHz quad core, 17\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
-    "Name": "Name": "Notebook Basic 17",
+    "Name": "Notebook Basic 17",
     "ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1001.jpg",
     "Price": 1249
   },
@@ -19,7 +19,7 @@
     "ProductId": "HT-1002",
     "WeightMeasure": 4.2,
     "Description": "Notebook Basic 18 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
-    "Name": "Name": "Notebook Basic 18",
+    "Name": "Notebook Basic 18",
     "ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1002.jpg",
     "Price": 1249
   },
@@ -27,7 +27,7 @@
     "ProductId": "HT-1001",
     "WeightMeasure": 4.5,
     "Description":"Notebook Basic 18 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro"",
-    "Name": "Name": "Notebook Basic 17",
+    "Name": "Notebook Basic 17",
     "ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1001.jpg",
     "Price": 1249
   },
@@ -35,7 +35,7 @@
     "ProductId": "HT-1003",
     "WeightMeasure": 4.2,
     "Description": "Notebook Basic 17 with 2,80 GHz quad core, 19\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
-    "Name": "Name": "Notebook Basic 19",
+    "Name": "Notebook Basic 19",
     "ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1003.jpg",
     "Price": 1249
   },
@@ -75,7 +75,7 @@
     "ProductId": "HT-1020",
     "WeightMeasure": 0.16,
     "Description": "Digital Organizer with State-of-the-Art Encryption for Storage and Network Communications",
-    "Name": "Name": "Notebook Basic 17",
+    "Name": "Notebook Basic 17",
     "ProductPicUrl": "test-resources/sap/ui/demokit/explored/img/HT-1020.jpg",
     "Price": 459
   }
